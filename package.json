@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "imap-simple": "^1.6.3",
+    "semver": "^7.6.3",
+    "twilio": "^5.3.6"
+  }
+}
